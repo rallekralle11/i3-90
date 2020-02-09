@@ -17,10 +17,13 @@ then cutting out in whatever material you want. i used 19mm MDF.
 (slightly) overkill, but hey. i could stand on it without affecting the print.
 thinner MDF would work well, OSB, maybe plastics... whatever you feel like.
 
-the 13-90_assembly.123dx file can be opened in 123d or fusion360, and is there to show how everything fits together.
+the 13-90_assembly.123dx file can be opened in 123d or fusion360(though in fusion not everything works),
+and is there to show how everything fits together.
 
 any parts intended for the newer prusa i3s will most likely fit, since i've used the same rod spacings.
 so if you want a bowden system, another leveling probe, hotend, fan, etc... there should be parts for that.
+
+![Alt text](\i3-90\images\full?raw=true "the machine")
 
 Rasmus Liljeberg 2020
 Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
