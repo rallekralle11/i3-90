@@ -2,6 +2,9 @@ this is a reprap i designed.
 inspired by the mendel90 and incorperating modified parts from that, the prusa mk2 and the mk3.
 as well as a good few of my own design.
 
+heads-up, this is the first printer i've ever designed.
+i don't know git, don't know best practices and all that...
+
 the printing_assemply file is a list of what to print and a bit of a BOM.
 the spoolholder file is the same, but for the spool holder i designed.
 
