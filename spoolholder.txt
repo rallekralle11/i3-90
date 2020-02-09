@@ -1,0 +1,10 @@
+spoolholder
+spoolholder_mirror
+guide
+
+1x M3x12+
+1x M3 nut
+4-6x 3/4mm wood screws
+1x 10mm rod of any material, at least 260mm long
+
+1x 624-size bearing OR bushing.stl

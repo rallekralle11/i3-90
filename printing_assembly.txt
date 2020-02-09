@@ -1,0 +1,107 @@
+this is designed with all the standard rod spacings of the newer i3s, any other bed carriage, print head, 
+or other things for the mk2/mk3 would fit. i've used the mk2 X carriage since it doesn't need special parts.
+(bondtech gears, IR filament sensor, magnets)
+i apologise if something is missing, i've never designed a printer before. please tell me and i'll fix it.
+
+
+frame:
+the wooden pieces
+8x mendel90/fixing_block
+24x 4mm wood screws of appropriate length for the fixing blocks
+i'd also recommend screwing the frame pieces together direcly if the material used is thick enough
+
+
+bed assembly:
+the wooden bed-holder-thingy
+3x bearing clamps
+Y_belt_attachment
+Y_belt_clamp
+
+2x M3x10 or slightly longer
+16x 4mm wood screws of appropriate length(think i'll just shorten that to "wood screws" from now on)
+3x LM8UU or equivalent
+3 thin zip-ties
+PCB bed or equivanent, i used an aluminium/PCB bed. standard hole spacing.
+sheet of aluminium, steel, glass etc. if it's not integrated into the heater.
+with glass the inductive probe wouldn't work
+
+
+Y axis:
+the bed assembly
+Y_motor, if your base is thicker than around 19mm you may want to use Y_motor_extra, with another screw.
+4x Y_rod_holder
+Y_belt_slide
+Y_slide_anchor
+Y_endstop
+
+4x M3x10 for the motor
+2 or 3 wood screws for the motor mount
+NEMA17 size motor(of course) with pulley
+something like 80cm of belt, maybe more to be sure
+
+9x wood screws for the rest
+2 330mmx8mm rods
+4 zip-ties (adjust the bearing spacing before attaching the rods)
+a microswitch and small screws to mount it
+
+
+X axis assembly:
+X_carriage
+X_end_idler
+X_end_motor
+
+7x LM8UU or equivalent, 6 of em can be replaced with 3 LM8LUU
+motor and pulley
+idler
+3x M3x20 for the motor
+another M3x20 or longer, and nut, for the tensioning thing
+5x M3x20 with nuts for other things
+maybe like 80cm of belt here too to be sure. just buy a 2m piece and you're good
+2 370x8mm rods
+2x lead screw nuts, or maybe normal M8 nuts in some fancy mounts. threaded rods are underrated
+micro switch
+6 zip-ties
+
+
+Z axis:
+good to know: the holes for the attachments can be made anywhere along the slits in the frame drawing, 
+so longer or shorter motors can be used.
+Z_top
+Z_top_2
+Z_bottom
+Z_bottom_2
+
+
+2x 8x320mm rods. maybe a couple mm shorter
+2x lead screws of about the same length
+2x NEMA17 size motors with couplers
+8x M3x10 for the motors
+don't forget to put on the X-assembly before screwing everything down
+10x wood screws
+
+
+extruder assembly:
+extruder_body
+extruder_cover
+fan_nozzle
+idler
+idler_shaft
+
+MK8 drive gear
+625 bearing
+12x M3 nuts
+1x M3x18
+1x M3x25
+3x M3x20
+2x M3x30
+3x M3x40
+2 suitable springs
+(4 M3 washers)
+(taken from the official prusa assembly guide, some parts have been modified)
+E3D V6, lite6, clone or something like that
+12mm inductive probe
+30mm fan, or larger with a printed adapter
+50mm radial blower fan
+
+look at prusa's assembly guide, hex nuts work instead of square nuts
+https://manual.prusa3d.com/Guide/5.+Extruder+Assembly/295?lang=en
