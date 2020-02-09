@@ -24,7 +24,7 @@ any parts intended for the newer prusa i3s will most likely fit, since i've used
 so if you want a bowden system, another leveling probe, hotend, fan, lighter Y-carriage, etc... there should be parts for that.
 
 ![alt text](https://raw.githubusercontent.com/rallekralle11/i3-90/master/images/full.jpg)
-(picture of my prototype machine, the current files are better than this)
+(picture of my prototype machine, the current files are better than this(also i'm out of that filament to print the newer bits))
 
 Rasmus Liljeberg 2020
 Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
