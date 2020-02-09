@@ -23,11 +23,7 @@ and is there to show how everything fits together.
 any parts intended for the newer prusa i3s will most likely fit, since i've used the same rod spacings.
 so if you want a bowden system, another leveling probe, hotend, fan, etc... there should be parts for that.
 
-<<<<<<< HEAD
 ![alt text](https://raw.githubusercontent.com/rallekralle11/i3-90/master/images/full.jpg)
-=======
-!(\i3-90\images\full)
->>>>>>> 8a1412221a7a8e49b024f8fe4ab951d46a4dbdab
 
 Rasmus Liljeberg 2020
 Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
