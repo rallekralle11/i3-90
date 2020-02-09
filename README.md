@@ -5,6 +5,10 @@ as well as a good few of my own design.
 heads-up, this is the first printer i've ever designed.
 i don't know git, don't know best practices and all that...
 
+no mounting for electronics is included, exept i guess the massive sheets that would make a convenient hideaway.
+just screw it into the wood, maybe make some nice covers. and that's that. 
+i tried to keep the good amount of space from the mendel90.
+
 the printing_assemply file is a list of what to print and a bit of a BOM.
 the spoolholder file is the same, but for the spool holder i designed.
 
