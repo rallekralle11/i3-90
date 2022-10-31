@@ -26,5 +26,5 @@ so if you want a bowden system, another leveling probe, hotend, fan, lighter Y-c
 ![alt text](https://raw.githubusercontent.com/rallekralle11/i3-90/master/images/full.jpg)
 (picture of my prototype machine, the current files are better than this(also i'm out of that filament to print the newer bits))
 
-Rasmus Liljeberg 2020
+2020
 Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
